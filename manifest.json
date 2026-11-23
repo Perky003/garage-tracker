@@ -1,1 +1,16 @@
-{"name":"Garage Tracker","short_name":"Garage","start_url":"./","display":"standalone","background_color":"#101215","theme_color":"#17191d","icons":[]}
+{
+  "name": "Garage Tracker",
+  "short_name": "Garage Tracker",
+  "description": "Simple automotive repair job and task tracker",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101215",
+  "theme_color": "#16191d",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
